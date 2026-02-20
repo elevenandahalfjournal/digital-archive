@@ -36,7 +36,7 @@ const label = LABEL_MAP[genre as Genre];
 ---
 
 <BaseLayout title={`${label}`} subtitle={`${issue.data.year} · Issue ${issue.data.number}`}>
-  <p class="small"><a href={`/issues/${slug}`}>← Back to genres</a></p>
+  <p class="small"><a href={`/digital-archive/issues/${slug}`}>← Back to genres</a></p>
 
   <br>
 
@@ -48,7 +48,7 @@ const label = LABEL_MAP[genre as Genre];
     <ul>
       {filtered.map((e) => (
         <li style="margin: 10px 0;">
-          <a href={`/entries/${e.slug}`}>{e.data.title}</a>
+          <a href={`/digital-archive/entries/${e.slug}`}>{e.data.title}</a>
           {e.data.author && <span> — {e.data.author}</span>}
         </li>
       ))}
