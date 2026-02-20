@@ -1,0 +1,25 @@
+---
+import "../styles/global.css";
+
+const { title = "Archive", subtitle = "" } = Astro.props;
+---
+
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <link rel="stylesheet" href="https://use.typekit.net/bzb3vsn.css">
+    <title>{title}</title>
+  </head>
+  <body>
+    <main class="container">
+      <header>
+        <h1 class="site-title">{title}</h1>
+        {subtitle && <p class="site-sub">{subtitle}</p>}
+        <hr />
+      </header>
+
+      <slot />
+    </main>
+  </body>
+</html>

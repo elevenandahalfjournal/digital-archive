@@ -1,0 +1,57 @@
+---
+import BaseLayout from "../../../layouts/BaseLayout.astro";
+import { getCollection } from "astro:content";
+import { ALLOWED_GENRES, type Genre, LABEL_MAP } from "../../../lib/genres";
+
+export async function getStaticPaths() {
+  const issues = await getCollection("issues");
+  return issues.flatMap((issue) =>
+    ALLOWED_GENRES.map((genre) => ({
+      params: { slug: issue.slug, genre },
+    }))
+  );
+}
+
+const { slug, genre } = Astro.params;
+
+if (!ALLOWED_GENRES.includes(genre as Genre)) {
+  throw new Error(`Invalid genre: ${genre}`);
+}
+
+const issues = await getCollection("issues");
+const issue = issues.find((i) => i.slug === slug);
+if (!issue) throw new Error(`Issue not found: ${slug}`);
+
+const entries = await getCollection("entries");
+
+const filtered = entries
+  .filter((e) => e.data.issueSlug === slug && e.data.genre === (genre as Genre))
+  .sort(
+    (a, b) =>
+      (a.data.order ?? 9999) - (b.data.order ?? 9999) ||
+      a.data.title.localeCompare(b.data.title)
+  );
+
+const label = LABEL_MAP[genre as Genre];
+---
+
+<BaseLayout title={`${label}`} subtitle={`${issue.data.year} · Issue ${issue.data.number}`}>
+  <p class="small"><a href={`/issues/${slug}`}>← Back to genres</a></p>
+
+  <br>
+
+  <!-- <h2>{label}</h2> -->
+
+  {filtered.length === 0 ? (
+    <p>No entries added yet.</p>
+  ) : (
+    <ul>
+      {filtered.map((e) => (
+        <li style="margin: 10px 0;">
+          <a href={`/entries/${e.slug}`}>{e.data.title}</a>
+          {e.data.author && <span> — {e.data.author}</span>}
+        </li>
+      ))}
+    </ul>
+  )}
+</BaseLayout>

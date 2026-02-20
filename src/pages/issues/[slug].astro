@@ -1,0 +1,47 @@
+---
+export const prerender = true;
+
+import BaseLayout from "../../layouts/BaseLayout.astro";
+import { getCollection } from "astro:content";
+
+export async function getStaticPaths() {
+  const issues = await getCollection("issues");
+  return issues.map((issue) => ({
+    params: { slug: issue.slug },
+  }));
+}
+
+const { slug } = Astro.params;
+
+const issues = await getCollection("issues");
+const issue = issues.find((i) => i.slug === slug);
+
+if (!issue) throw new Error(`Issue not found: ${slug}`);
+
+const genres = [
+  { key: "nonfiction", label: "Nonfiction" },
+  { key: "fiction", label: "Fiction" },
+  { key: "poetry", label: "Poetry" },
+  { key: "art", label: "Art" },
+  { key: "interview", label: "Interview" },
+];
+---
+
+<BaseLayout title={`Issue ${issue.data.number}`} subtitle={`${issue.data.year} · Theme: Dedication`}>
+    <p class="small"><a href={`/`}>← Back to issues</a></p>
+  <h2>Genres</h2>
+
+  <ul>
+    {genres.map((g) => (
+      <li style="margin: 12px 0;">
+        <a href={`/issues/${slug}/${g.key}`}>{g.label}</a>
+      </li>
+    ))}
+  </ul>
+
+  {issue.data.pdf && (
+    <p style="margin-top: 24px;">
+      <a href={issue.data.pdf}>Download full PDF</a>
+    </p>
+  )}
+</BaseLayout>

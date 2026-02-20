@@ -1,0 +1,31 @@
+---
+import BaseLayout from "../../layouts/BaseLayout.astro";
+---
+
+<BaseLayout title="Entries" subtitle="Browse by section.">
+  <nav class="entry-cats">
+    <a href="/entries/fiction">Fiction</a>
+    <a href="/entries/nonfiction">Nonfiction</a>
+    <a href="/entries/poetry">Poetry</a>
+    <a href="/entries/art">Art</a>
+  </nav>
+</BaseLayout>
+
+<style>
+  .entry-cats{
+    margin-top: 1.75rem;
+    display: grid;
+    gap: 0.9rem;
+    max-width: 520px;
+  }
+  .entry-cats a{
+    padding: 14px 16px;
+    border: 1px solid rgba(0,0,0,0.15);
+    border-radius: 12px;
+    text-decoration: none;
+    color: inherit;
+  }
+  .entry-cats a:hover{
+    transform: translateY(-1px);
+  }
+</style>

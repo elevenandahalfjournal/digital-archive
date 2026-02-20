@@ -1,0 +1,49 @@
+---
+title: "William the Conqueror's Body Burst From Being Stuffed in His Coffin and It Released a Horrible Stench"
+author: "Miriam Rigg"
+dedication: "For Queen Matilda for all the petulant men she had to put up with."
+genre: "nonfiction"
+issueSlug: "2026-issue-14"
+issueNumber: 14
+year: 2026
+order: 2
+---
+
+&nbsp;&nbsp;&nbsp;&nbsp;When William won the English throne he was a tall, young man, exactly how one might picture the Duke of Normandy to be. Two decades of ruling as the King of England doesn’t do well to an aging man, and William, an already gluttonous man, had indulged in all the finest foods: lamprey, bunnies, and landfowl (it was the 11th century). Going from a strappy man to a morbidly obese man infected William with shame. William heard from someone who heard from someone else that King Philip of France compared him to a pregnant woman about to give birth. 
+
+&nbsp;&nbsp;&nbsp;&nbsp;William, about to hit 60, decided to drop a few stones. With Slim Fast and cigarettes not at his disposal, William got on the original fad diet: liquid only, or rather liquor only. Throughout his days, William would nurse rotating goblets of wine, ale, and mead. Old Willy’s alcoholism might have survived him well if he didn’t already have difficulty riding a horse, let alone also launching a military campaign against Philip for some of his wounding remarks and French territory. 
+
+&nbsp;&nbsp;&nbsp;&nbsp;Things hadn’t been well with Robert, the eldest boy, since William didn’t punish his other two sons for dumping a chamber pot on 26-year-old Robert’s head. One attempted coup and an exile later, Robert had allied himself with Philip, helping him hold North France against his father. In one battle, Robert unhorsed William, wounding him, and only resisted slaying him when his father’s guttural voice pleaded to him. The family matriarch, Queen Matilda had been the only thing keeping the pair at bay, and upon her death, a Sicilian kiss of death had been placed. 
+
+&nbsp;&nbsp;&nbsp;&nbsp;Mantes was the middle point between Paris, where Philip sat the throne, and Normandy, where William still ruled as Duke. While seizing the city, William’s horse jumped into a ditch, the saddle’s pommel piercing William’s stomach. His army retreated back to the Norman town of Rouen with William. He laid in a priory on his deathbed and considered it time to confess his sins if he should have any chance of seeing the pearly gates. 
+
+&nbsp;&nbsp;&nbsp;&nbsp;William had spent the majority of his life in power, inheriting duchy at the age of 7, and securing a kingdom before the age of 40. Naturally, to hold such power requires a level of brutality, but by many markers William’s rule was the deadliest of any English monarch that would follow him. Back in 1066, the Norman Conquest concluded at the Battle of Hastings where William shot Harold, the last Anglo-Saxon King, in the eye. The battle itself likely killed 4,000 Englishmen, whose bodies were left on the battlefield for the birds to peck away at. The 2,000 killed Normans were buried in an unmarked communal grave. 
+
+&nbsp;&nbsp;&nbsp;&nbsp;However, William’s battle win did not lead to a welcomed reign. The replacement of an Anglo-Saxon ruler, who had reduced taxes and raised wages, by a French one, who returned to Normandy only a few months after his coronation. Rebellions rose up forcing poor old William back to England to deal with those needy peasants up North. 
+
+&nbsp;&nbsp;&nbsp;&nbsp;As winter fell in 1069, Harold’s great nephew-in-law (all arbitrary how these lines of succession work), Edgar, who was the last male from the former royal family left alive, began to encourage rebellions from essentially anyone in Northern England who had a sword. The campaign failed pretty quickly. William paid the Danes to go back to Denmark and those that remained refused to meet William in battle. Edgar saw his future of either death or captivity at the hands of William and ran away to Scotland for refuge with his sister and her husband, King Malcolm. 
+
+&nbsp;&nbsp;&nbsp;&nbsp;(Unfortunately, that wouldn’t work out for long and Edgar would spend most of his life on a wild goose chase with William and later his sons, each time ending in a pardon until the next dynastic strife,
+but perhaps, Edgar go the last life growing old in the country in privacy and quiet, while William and his lineage were all befallen by rather gruesome deaths). 
+
+&nbsp;&nbsp;&nbsp;&nbsp;Everyone left in the North, mostly commonfolk and a measly few rebellious aristocrats, were the ones to deal with William’s scorched earth tactics. If he couldn’t defeat them in a traditional bloody battle, he would defeat them with long-term starvation. William ordered everything to be turned to ash. Those that remained were slaughtered by his soldiers. William’s most notable accomplishment, the Doomsday Book, which was the first census of England, allowed further assertions of power with high taxation. The area scorched in the North was deemed a wasteland, the land’s taxation value decreasing 80% and up to 75% of the population had died or fled as a result of the harrying. Orderic Vitalis chronicled the Harrying of the North, writing, “I have often praised William in this book, but I can say nothing good about this brutal slaughter. God will punish him.” 
+
+&nbsp;&nbsp;&nbsp;&nbsp;Perhaps, as William laid on his deathbed, this same thought came to him. Or wondered over to his half-brother, Odo, imprisoned for treason due to a poorly planned plot to become Pope. There was, of course, Robert, his firstborn, only miles away, but not as his deathbed due to a spat over a chamberpot, though the memory of that might’ve brought him one last chuckle. Death, the fate he had brought so many, was creeping up William, and so he began to confess. 
+
+&nbsp;&nbsp;&nbsp;&nbsp;“I treated the native inhabitants of the kingdom with unreasonable severity, cruelly oppressed high and low, unjustly disinherited many, and caused the death of thousands by starvation and war, especially in Yorkshire. In mad fury I descended on the English of the north like a raging lion, and ordered that their homes and crops with all their equipment and furnishings should be burnt at once and their great flocks and herds of sheep and cattle slaughtered everywhere. So I chastised a great multitude of men and women with the lash of starvation and, alas! was the cruel murderer of many thousands, both young and old, of this fair people.” 
+
+&nbsp;&nbsp;&nbsp;&nbsp;Entreated by the clergy around him to forgive those who had wronged him, William relented, and set that Odo would be freed and Robert would inherit the duchy of Normandy. He was also enticed to make a generous donation to the clergymen. To his remaining two sons: William would inherit the English crown and Henry would get a few bucks. The indifference in inheritance didn’t bode well and set England up for another war for the crown, but William wouldn’t be there to shed blood. As the bells of the priory rang for the first hour of daylight, William died commending himself to the Virgin Mary and begging for God to be merciful to him. 
+
+&nbsp;&nbsp;&nbsp;&nbsp;Immediately after, any remaining nobles and knights left because it isn’t worth kissing up to someone who is dead. The servants that remained stole all valuables, and hurried away, leaving William’s naked dead body on the floor. 
+
+&nbsp;&nbsp;&nbsp;&nbsp;Since virtually anyone with any royal-lined pockets had left, it fell to a common knight to make and pay for the funeral arrangements, including the conveying the body down the Seine to Caen, where William desired to be buried. When the monks met the bier, a fire broke out eating its way through town, destroying the majority of it, as if signalling a sign of William’s spiritual destination in hell. 
+
+&nbsp;&nbsp;&nbsp;&nbsp;Whatever was left of the town and William’s weeks-old body, was eulogized by the bishops and abbots of Normandy, with Henry being the only one of his sons in attendance, though William did have plenty of daughters but they didn’t seem important to note about after their wedded commitment to a duke or count or, scariest of all, God. It was asked that if William had ever wronged anyone, he was now to be forgiven. 
+
+&nbsp;&nbsp;&nbsp;&nbsp;Despite a request like that usually being rhetorical, a man yelled that the church was built on land stolen from his father by William, and that he would be damned if William were to be buried on his inheritance. In an act of his penance for his father, Henry compensationally paid the man so William could be buried on the land. 
+
+&nbsp;&nbsp;&nbsp;&nbsp;With affairs seemingly coming to an end, it was finally William’s chance to be buried. The only problem was that William had become rather bloated since his death like a curse placed on him to inflate his heaviest insecurity. Brute force, a favorite of William’s, was applied to the body by the attendants in the hopes that with enough squeezing he would fit. 
+
+&nbsp;&nbsp;&nbsp;&nbsp;Unfortunately, by this point his body was a pimple primed for popping. His swollen bowels burst releasing an intolerable stench throughout the crowd that no censer in the world could mask. His rites were hurriedly finished, and it was a decidedly rotten finish. Still, it wasn’t the end for William’s corpse. He laid in the earth for many years until his tomb was repeatedly disturbed through the years. First, during the French War of Religions where a Calvinist mob stole his coffin for a quick buck, but when it was discovered to hold little value, his remains were scattered. Whatever was left of William was once again disturbed during the French Revolution and thrown into the River Orne. 
+
+&nbsp;&nbsp;&nbsp;&nbsp;Nearly a millennium later, only a thigh bone remains. Far more than any William lay his broadsword to. Perhaps, it is something for him to chew on.

@@ -1,0 +1,24 @@
+---
+title: "Coalescence"
+author: "Charlotte Stella"
+dedication: "For Angelino."
+genre: "fiction"
+issueSlug: "2026-issue-14"
+issueNumber: 14
+year: 2026
+order: 10
+---
+
+I want to make a genius of myself but it's so hard to take everything which is so separate in me and compile it into a single, cohesive thought. There are so many factors floating through me I can hardly discern the product. I can't do this math, this type of composite equation in my head. I like to think that I, Charlotte Stella, am a whole, a product of innumerable variegated factors. But to be certain that this product is completely logical, I must look back into my equation, find each individual factor, add them up, double check my answer. However, it seems that everything that could explain me is mixed into concrete, creating my invisible foundation. I'd like to go into this structure and extract, but to look for concrete explanation goes against my desire to live happily, to live unknowingly believing. That means, I suppose, that there are multiple motivations for my desire. That desire to believe is mere personal affection, while my desire to see the whole, to see inside, is a thoroughly human quality.
+
+That a person's mind can be 'wired scientifically' seems to insinuate that we are meant to understand at least some things, in certain ways. And as science continues to advance with no end in sight we become convinced that our understanding of the world could be infinite, omniscient even. There is a string linking every generation of thought, and that is the mind's inexplicable urge to comprehend itself. Therapy, philosophy, self- help books, neuroscience, psychoanalysis, poets, people predisposed to depression. We come built within us a need to get to the seed, the reason for being, the ultimate answer; yet how do we imagine our response to knowing?
+
+I am laced with a vision of western salvation, a vague, candle-lit release of responsibility. No longer will I molest these things around me with my eyes closed. No longer will I walk blindly, willing some body to bring me in one direction or another. I fancy myself, after knowing, not needing to know anything else, thus no longer restless, unreasonably insatiate. But as for how I will act, what I will actually do? Currently I am too confined by doubt and debt to fathom my life changing in such drastic fashion. It is perhaps what I will no longer do that is evident of my being enlightened at last.
+
+Maybe the mystery of language will unfold itself and suddenly every fragment in my mind will instinctually and immediately matriculate to its most accurate expression. I will not have to manage my own sentences, rather, my every impression will go into a machine and be released in my throat, perfectly and automatically transfigured into language. Maybe it would be impossible, in this way, to make mistakes. But, of course, if mistakes are the matter then we must be rid of language altogether.
+
+In a more perfect world, an illusory one, where we are all knowing of ourselves, where each person holds the equation, or collection of factors that produce themselves, in a small seed, then we could each take those little seeds of ours and share them silently with one another.
+
+Now imagine twelve people, each with their explanations encapsulated in the seed enshrouded within them. They're on their hands and knees, flat-backed, situated in a circle. Each person's head fits perfectly between the ass of the person before them. Naked and knees bruising, the twelve begin to crawl. The circuit spins, orbiting itself. Courageously defecating first, a woman on her knees tenses the muscles of her abdomen, tightening them over her bowel. As her face begins to redden what is released from her ass and inhaled by the person behind her is not fecal matter but the small seed, refracted light of every color closely contained in itself yet not blending to black. So, this person behind her inhales her seed, and simultaneously they shit their seed out to the person behind them, and so on and so forth. The twelve march synchronously as ants, and in doing so come to know one another as perfectly as a product can ever be understood in the human mind.
+
+This effervescent comprehension could eliminate the need for complex communication to create community. Even eliminate my overextended ability to make mistakes, misrepresent myself with language. But in order to do so I must first compile myself, compartmentalize, categorize, so that I may begin to sort through, find the significance, stuff it in my currently colorless seed. I will be seen even on a moonless night. Then, I will give it to someone else, see myself, see that the colors have not mixed and that I am neither murky nor obscured, but make sense like most math equations do.

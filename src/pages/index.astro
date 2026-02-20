@@ -1,0 +1,35 @@
+---
+import BaseLayout from "../layouts/BaseLayout.astro";
+import { getCollection } from "astro:content";
+
+const issues = await getCollection("issues");
+issues.sort((a, b) => b.data.year - a.data.year || b.data.number - a.data.number);
+---
+
+<BaseLayout
+  title="Eleven and a Half"
+  subtitle="Eleven and a Half is the student-run literary magazine of Eugene Lang College at The New School. We publish fiction, nonfiction, poetry, translation, and visual art by students and faculty across the university. Print issues are published annually in the spring. This site is the digital archive of Eleven and a Half. Here, you can explore past issues as we continue the ongoing process of digitizing each entry."
+>
+  <h2>Issues</h2>
+  <ul>
+    {issues.map((issue) => (
+      <li style="margin: 12px 0;">
+        {issue.data.digitized ? (
+          <a href={`/issues/${issue.slug}`}>
+            {issue.data.year} — Issue {issue.data.number}
+          </a>
+        ) : (
+          <span>
+            {issue.data.year} — Issue {issue.data.number}
+          </span>
+        )}
+        {" · "}
+        {issue.data.pdf ? (
+          <a href={issue.data.pdf} target="_blank" rel="noreferrer">PDF</a>
+        ) : (
+          <span>PDF</span>
+        )}
+      </li>
+    ))}
+  </ul>
+</BaseLayout>

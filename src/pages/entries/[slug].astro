@@ -1,0 +1,31 @@
+---
+import BaseLayout from "../../layouts/BaseLayout.astro";
+import { getCollection } from "astro:content";
+export async function getStaticPaths() {
+const entries = await getCollection("entries");
+return entries.map((entry) => ({
+params: { slug: entry.slug },
+  }));
+}
+const { slug } = Astro.params;
+const entries = await getCollection("entries");
+const entry = entries.find((e) => e.slug === slug);
+if (!entry) throw new Error("Entry not found");
+const { Content } = await entry.render();
+const subtitle = `${entry.data.author} · ${entry.data.genre}${entry.data.dedication ? ` · ${entry.data.dedication}` : ""}`;
+---
+<BaseLayout title={entry.data.title} subtitle={subtitle}>
+  <p class="small">
+    <a href={`/issues/${entry.data.issueSlug}/${entry.data.genre}`}>← Back to entries</a>
+  </p>
+  <article class="prose" data-genre={entry.data.genre}>
+    <Content />
+  </article>
+</BaseLayout>
+
+<style>
+  article[data-genre="poetry"] p {
+    white-space: pre-line;
+    margin-bottom: 1.5em;
+  }
+</style>
