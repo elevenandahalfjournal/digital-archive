@@ -28,13 +28,13 @@ const genres = [
 ---
 
 <BaseLayout title={`Issue ${issue.data.number}`} subtitle={`${issue.data.year} · Theme: Dedication`}>
-    <p class="small"><a href={`/`}>← Back to issues</a></p>
+    <p class="small"><a href={`/digital-archive/`}>← Back to issues</a></p>
   <h2>Genres</h2>
 
   <ul>
     {genres.map((g) => (
       <li style="margin: 12px 0;">
-        <a href={`/issues/${slug}/${g.key}`}>{g.label}</a>
+        <a href={`/digital-archive/issues/${slug}/${g.key}`}>{g.label}</a>
       </li>
     ))}
   </ul>
