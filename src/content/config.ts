@@ -1,7 +1,7 @@
 import { defineCollection, z } from "astro:content";
 
 const issues = defineCollection({
-  type: "content", // ✅ change from "data" to "content"
+  type: "content",
   schema: z.object({
     title: z.string(),
     year: z.number(),
