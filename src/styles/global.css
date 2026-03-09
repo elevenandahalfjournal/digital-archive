@@ -96,7 +96,6 @@ h2 {
   font-style: italic;
 }
 
-/* Indent all paragraphs in fiction entries */
 article[data-genre="fiction"] .prose p,
 article[data-genre="fiction"] p {
   text-indent: 2em;
