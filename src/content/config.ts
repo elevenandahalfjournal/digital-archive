@@ -22,6 +22,7 @@ const entries = defineCollection({
     year: z.number(),
     genre: z.enum(["fiction", "nonfiction", "poetry", "art", "interview"]),
     order: z.number().optional(),
+    image: z.string().optional(),
   }),
 });
 
