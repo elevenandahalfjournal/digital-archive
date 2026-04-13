@@ -19,12 +19,18 @@ const subtitle = `${entry.data.author} · ${entry.data.genre}${entry.data.dedica
     <a href={`/digital-archive/issues/${entry.data.issueSlug}/${entry.data.genre}`}>← Back to entries</a>
   </p>
   <article class="prose" data-genre={entry.data.genre}>
-    {entry.data.genre === "art" && entry.data.image ? (
-      <img src={entry.data.image} alt={entry.data.title} style="max-width: 100%; height: auto;" />
+  {entry.data.genre === "art" ? (
+    entry.data.images ? (
+      entry.data.images.map((img: string) => (
+        <img src={img} alt={entry.data.title} style="max-width: 100%; height: auto; display: block; margin-bottom: 1rem;" />
+      ))
     ) : (
-      <Content />
-    )}
-  </article>
+      <img src={entry.data.image} alt={entry.data.title} style="max-width: 100%; height: auto;" />
+    )
+  ) : (
+    <Content />
+  )}
+</article>
 </BaseLayout>
 
 <style>
